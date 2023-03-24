@@ -1,0 +1,55 @@
+GREGLET
+Overview
+The greglet is a type of critter that inhabits urban areas, 
+There are many variations such as the gregling, greggus, and grüg. 
+They are commonly found in damp and dark areas such as sewers or behind the toilet. 
+
+Appearance
+It is difficult to accurately ascertain the greglet's appearance due to their elusiveness.
+However, the few rare sightings of them have revealed that they are roughly equal in size to 3 medium-sized oranges. 
+They have four limbs capable of holding objects. Each greglet is also characterized by an appendage at the back of their head. 
+
+Behavior 
+Greglets favor dwelling in places that are poorly lit. 
+They are evasive to non-greglets. 
+If spotted, they will immediately scurry away from the witness' sightline. 
+They have a penchant to take small items such as keys or wallets. 
+It's unknown what they actually do with these objects or where they take them to. 
+
+Encounters
+November 11
+Sitting at the park bench by the pond in Anessik Park. Sky is overcast. 
+Rain drops begin to fall. I get up and begin making my way back.
+Notice pocket feels empty. My keys are gone. Search around. 
+Starting to feel frantic, until...
+In the corner of my eye, I see a glimmer in the bushes.
+It's my keys. Holding it was the creature. 
+I only managed to glance at it for a split-second.
+As I looked at it, it looked at me.
+Behind its black beady eyes was only hatred. 
+Eyes with no affection or enjoyment. 
+Eyes that have never felt love. 
+Then it darted away into the thick shrubbery. 
+
+RGB 64, 192, 192
+
+RAINFEEDER
+Rainfeeders are relatively small yet highly adaptable creatures commonly found in areas with high precipitation. 
+They are docile and avoid confrontation with other creatures. 
+They are characterized by a beak on the top of their heads. During times of rain, the beak opens to feed upon the water. 
+
+Rainfeeders have a specialized flagella that allows them to travel over ground. 
+The flagella functions as a sort of spring or pogo stick that moves them in a bouncing motion.
+Rainfeeders also have a single eye, which allows it to see. It lacks the depth perception that multiple-eyed creatures posess.
+They use their eyesight to find suitable nesting grounds or to locate hostile predators. 
+After spotting a predator, rainfeeders will attempt to hop away. However, they lack any defensive ability after being caught. 
+
+Poem by smeg 
+when all that's left of yesterday
+is dried blood in the sink, an unmade bed
+and a thin film of coffee at the bottom of a mug
+to be cleaned tomorrow, whenever that comes
+temporarily permanent, the clothes on the floor
+and letters unopened, constant occasions
+pushed aside to make room for the question
+"when is the future?"
